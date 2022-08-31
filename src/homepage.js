@@ -8,8 +8,17 @@ class HomePage extends React.Component {
                 <h3>Software developer and designer</h3>
                 <p>I am a third-year Computer Science and Math major at Northeastern University, expected to graduate
                     summer 2023. </p>
-                <h2>Software Projects</h2>
-                <h2>Design Projects</h2>
+                <h2>About</h2>
+                <h3>Experience</h3>
+                <strong>Baltimore Orioles- Software Development Co-op</strong>
+                <br/>
+                <em>January - September 2022</em>
+                <hr/>
+                <h2>Selected Software Projects</h2>
+                <button>Image Processor</button>
+                <button>Business Report PDF Generator</button>
+                <h2>Selected Design Projects</h2>
+                <button>Takeout Ordering App</button>
             </div>
         )
     }

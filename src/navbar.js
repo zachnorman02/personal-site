@@ -4,7 +4,12 @@ import './App.css';
 class NavBar extends React.Component {
     render() {
         return (
-            <div id={'navbar'}></div>
+            <div id={'navbar'}>
+                <a>LinkedIn</a>
+                <a href={'https://github.com/zachnorman02'}>GitHub</a>
+                <a>Resume</a>
+                <a>Contact</a>
+            </div>
         )
     }
 }
